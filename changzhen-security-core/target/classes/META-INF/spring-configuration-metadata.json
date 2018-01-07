@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.changzhen.security.core.properties.SecurityProperties",
+      "name": "changzhen.security",
+      "type": "com.changzhen.security.core.properties.SecurityProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.changzhen.security.core.properties.SecurityProperties",
+      "name": "changzhen.security.browser",
+      "type": "com.changzhen.security.core.properties.BrowserProperties"
+    },
+    {
+      "sourceType": "com.changzhen.security.core.properties.SecurityProperties",
+      "name": "changzhen.security.code",
+      "type": "com.changzhen.security.core.properties.ValidateCodeProperties"
+    }
+  ]
+}
